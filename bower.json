@@ -1,0 +1,9 @@
+{
+  "name": "Panorama écosystème JS",
+  "version": "0.0.0",
+  "dependencies": {
+    "reveal.js": "~2.6.1",
+    "timeline.js": "~2.33.1",
+    "jquery": "~2.1.1"
+  }
+}
