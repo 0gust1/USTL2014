@@ -20,7 +20,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 */
 
-;Reveal.SvgFragment = (function(Reveal){
+Reveal.SvgFragment = (function(Reveal){
   "use strict";
   var window = this,
     document = window.document,
@@ -73,7 +73,7 @@ THE SOFTWARE.
         createStoryJS(cfg);
     });
     return api;
-  };
+  }
 
   api.id = function(){
     return "reveal-timeline-" + (""+ Math.random()).replace(/0\./, "");
