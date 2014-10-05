@@ -67,6 +67,7 @@ THE SOFTWARE.
             css: api.cfg("css"),
             lang:"fr",
             font:'Arvo-PTSans'
+            //font:'Lekton-Molengo'
         };
 
         createStoryJS(cfg);

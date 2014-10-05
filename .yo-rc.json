@@ -1,10 +1,10 @@
 {
   "generator-reveal": {
-    "presentationTitle": "Reveal.js and Yeoman is Awesomeness",
+    "presentationTitle": "Panorama écosystème JS",
     "packageVersion": "0.0.0",
     "useSass": false,
     "deployToGithubPages": true,
     "githubUsername": "0gust1",
-    "githubRepository": "ustl-JS_1"
+    "githubRepository": "https://github.com/0gust1/USTL2014.git"
   }
 }
