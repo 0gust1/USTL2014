@@ -1,6 +1,5 @@
 [
     "index.md",
-    "petit-historique-de-js.md",
     {
         "filename": "timeline.md",
         "attr": {
@@ -26,6 +25,5 @@
         "bundlers-front.md",
         "task-runners.md",
         "scaffolders.md"
-    ],
-    "ardoise.md"
+    ]
 ]
