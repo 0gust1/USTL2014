@@ -1,5 +1,6 @@
 [
     "index.md",
+    "credits.md",
     {
         "filename": "timeline.md",
         "attr": {
@@ -28,5 +29,5 @@
     ],
     "good-parts.md",
     "bibliographie.md",
-    "liens.md"
+    "bibliographie-web.md"
 ]
