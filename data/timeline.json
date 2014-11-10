@@ -1,0 +1,163 @@
+{
+    "timeline":
+    {
+        "headline":"Petit historique de Javascript",
+        "type":"default",
+        "text":"<p>Quelques jalons marquants</p>",
+        "date": [
+            {
+                "startDate":"1996,03",
+                "headline":"Création",
+                "asset":{
+                    "media":"/img/brendan-eich.jpg"
+                    },
+                "text":"<p>Création de JS – Brendan Eich (Mozilla, pour Netscape)</p><p>Eich wrote JavaScript in ten days in 1995, having been recruited to Netscape with the promise of 'doing Scheme' in the browser (The idea of using Scheme was abandoned when engineering management [decided] that the language must ‘look like Java’).</p>"
+            },
+            {
+                "startDate":"1997,06",
+                "headline":"Standardisation ECMAScript",
+                "text":"<p>Standardisation – ECMAScript (Standard ECMA-262)</p>"
+            },
+            {
+                "startDate":"1997,12,18",
+                "headline":"HTML 4",
+                "text":"<p>Publication du standard HTML4</p>"
+            },
+            {
+                "startDate":"1998,12",
+                "headline":"Normalisation de DOM – W3C",
+                "text":"<p>Normalisation de DOM – W3C</p>"
+            },
+            {
+                "startDate":"1999,12",
+                "headline":"ECMAScript 3",
+                "text":"<p>ECMAScript 3 ~JS v1.5</p><h4>Implémentations :</h4><ul><li>JScript (MS)</li><li>ActionScript (Adobe)</li><li>SpiderMonkey (Moz)</li></ul>"
+            },
+            {
+                "startDate":"2005,02",
+                "headline":"AJAX",
+                "asset":{
+                    "media":""
+                    },
+                "text":"<p></p>"
+            },
+            {
+                "startDate":"2005,02",
+                "headline":"Prototype.js",
+                "asset":{
+                    "media":"/img/prototypejs.png"
+                    },
+                "text":"<p></p>"
+            },
+            {
+                "startDate":"2006,01",
+                "headline":"jQuery",
+                "asset":{"media":"/img/jQuery_logo.svg"},
+                "text":"<p>La biblothèque JS la plus connue du web</p>"
+            },
+            {
+                "startDate":"2007,03",
+                "headline":"HTML5",
+                "asset":{
+                    "media":"/img/HTML5_logo.png"
+                    },
+                "text":"<p>Publication du standard HTML5</p>"
+            },
+            {
+                "startDate":"2008,09,02",
+                "headline":"Google Chrome – moteur javascript V8",
+                "text":"<p>Moteur Javascript V8</p>",
+                "asset":{
+                    "media":"/img/Google_Chrome_icon.svg"
+                    }
+            },
+            {
+                "startDate":"2009,05,27",
+                "headline":"NodeJS",
+                "text":"<p></p>",
+                "asset":{
+                    "media":"/img/nodejs_2.png"
+                    }
+            },
+            {
+                "startDate":"2009,06",
+                "headline":"SpiderMonkey : compilation à la volée",
+                "text":"<p>Compilation à la volée du JS (JIT compilation)</p>",
+                "asset":{
+                    "media":"/img/firefox-logo.jpg"
+                    }
+            },
+            {
+                "startDate":"2009",
+                "headline":"AngularJS",
+                "text":"<p></p>",
+                "asset":{
+                    "media":"/img/angular.png"
+                    }
+            },
+            {
+                "startDate":"2010,10,13",
+                "headline":"Backbone.js",
+                "asset":{
+                    "media":"/img/backbone.png"
+                    },
+                "text":"<p></p>"
+            },
+            {
+                "startDate":"2010,12,7",
+                "headline":"V8 : compilation à la volée",
+                "text":"<p>Compilation à la volée du JS (JIT compilation)</p>"
+            },
+            {
+                "startDate":"2011,01",
+                "headline":"HTML5 'living standard'",
+                "text":"<p></p>"
+            },
+            {
+                "startDate":"2011,12",
+                "headline":"Ember.js",
+                "asset":{
+                    "media":"/img/emberjs.jpg"
+                    },
+                "text":"<p></p>"
+            },
+            {
+                "startDate":"2012,06",
+                "headline":"Node-webkit",
+                "asset":{
+                    "media":"/img/node-webkit.png"
+                    },
+                "text":"<p></p>"
+            },
+            {
+                "startDate":"2013,02",
+                "headline":"Firefox OS",
+                "asset":{
+                    "media":"/img/firefox-os.png"
+                    },
+                "text":"<p></p>"
+            }
+        ],
+        "era": [
+            {
+                "startDate":"1996,03",
+                "endDate":"2007,03",
+                "headline":"Browsers wars",
+                "text":"<p>Combats autour des standards</p>"
+            },
+            {
+                "startDate":"2000",
+                "endDate":"2006",
+                "headline":"Ère XHTML",
+                "text":"<p>XML everywhere...</p>"
+            },
+            {
+                "startDate":"2008",
+                "endDate":"2014",
+                "headline":"Performance and HTML5",
+                "text":"<p>Javascript engines, HTML5 extensions...</p>"
+            }
+
+        ]
+    }
+}
