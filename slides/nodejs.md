@@ -1,3 +1,3 @@
 # NodeJS
 
-![nodeJs](/img/nodejs_2.png "Optional title")
+![nodeJs](img/nodejs_2.png "Optional title")
