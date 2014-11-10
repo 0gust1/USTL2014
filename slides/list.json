@@ -1,6 +1,33 @@
 [
     "index.md",
-    "petit-historique-de-js.md",
-    "timeline.md",
-    "ardoise.md"
+    "credits.md",
+    {
+        "filename": "timeline.md",
+        "attr": {
+            "data-background": "#fff"
+        }
+    },
+    [{
+            "attr": {
+                "data-background": "/img/nodejs-1440x900.png"
+            }
+        },
+        "principes.md",
+        "runtime.md",
+        "event-loop.md",
+        "modules.md",
+        "callbacks.md",
+        "promises.md",
+        "streams.md"
+    ],
+    [
+        "outillage-nodejs.md",
+        "gestion-dependances.md",
+        "bundlers-front.md",
+        "task-runners.md",
+        "scaffolders.md"
+    ],
+    "good-parts.md",
+    "bibliographie.md",
+    "bibliographie-web.md"
 ]
