@@ -27,7 +27,7 @@ Reveal.SvgFragment = (function(Reveal){
 
     proto = window.location.protocol,
     local = proto === "file:",
-    cdn = (local ? "http:" : proto) + "//0gust1.github.io/USTL2014/bower_components/",
+    cdn = (local ? "http:" : proto) + "//localhost:9000/bower_components/",
     timeline_cdn = cdn + "timeline.js/build/",
 
     defaults = {

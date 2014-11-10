@@ -9,7 +9,7 @@
     },
     [{
             "attr": {
-                "data-background": "/img/nodejs-1440x900.png"
+                "data-background": "img/nodejs-1440x900.png"
             }
         },
         "principes.md",
